@@ -1,0 +1,9 @@
+com\flightcheckin\app\integration\ReservationRestClient.class
+com\flightcheckin\app\integration\ReservationRestClientImpl.class
+com\flightcheckin\app\model\Flight.class
+com\flightcheckin\app\controller\CheckInController.class
+com\flightcheckin\app\model\Reservation.class
+com\flightcheckin\app\dto\ReservationUpdateRequest.class
+com\flightcheckin\app\model\Passenger.class
+com\flightcheckin\app\dto\ReservationData.class
+com\flightcheckin\app\FlightCheckInApplication.class
